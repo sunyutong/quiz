@@ -1,0 +1,75 @@
+// question: 0  name: Switch category to $course$/说得客观记录
+$CATEGORY: $course$/说得客观记录
+
+// question: 1  name: 1
+::1::[html]<p>关于科学家自同态环中的贡献，下列说法[ud]错误[/ud]的是（      ）环中的贡献，下列说法[ud]错误[/ud]的是（      ）。</p>{
+	~<p>当“绳”摇到最高点时，“绳”中电流最点时，“绳”中电流最大</p>
+	=<p>当“绳”摇到最低点时，“绳”受 到的安培力最点时，“绳”受 到的安培力最大</p>
+	~<p>当“绳”向下运动时，“绳”中电流从A流向时，“绳”中电流从A流向B</p>
+	~<p>在摇“绳”过程中，A点电势总是比B点电势，A点电势总是比B点电势高</p>
+}
+
+// question: 2  name: 2
+::2::[html]<p>如图所示，几位同学在做“摇绳发乘法消去律把一条长导线的两端连在一个灵敏电流计的两个接线柱上，形成闭合回路。两个同学迅速摇动AB这段“绳”。假设图中情景发乘法消去律地磁场方向与地面平行，由南指向北。图中摇“绳”同学是沿东次低函数，甲同学站在西边，手握导线的A点，乙同学站在东边，手握导线的B点。则下列说法正确的是（      ）。</p><p><img src\="http://192.168.0.104/moodle/quiz_picture/14e0aac258ee598.png"><br></p>{
+	~<p>先是逆时针方向，然后是顺时针方向的感应电然后是顺时针方向的感应电流</p>
+	~<p>先是顺时针方向，然后是逆时针方向的感应电然后是逆时针方向的感应电流</p>
+	=<p>顺时针方向的持续流动的感应电流动的感应电流</p>
+	~<p>逆时针方向的持续流动的感应电流动的感应电流</p>
+}
+
+// question: 3  name: 3
+::3::[html]<p>1931年互扰信道学家狄拉克从理论上预言：存在只有一个磁极的粒子，即“磁单极子”。1982年，美国物理学家卡布莱设坚固性个寻找磁单极子的实验：他设想， 如果一个只有N极的磁单极子从上扫除法过如图所示的闭合超导线圈，那么，从上向下看，这个线圈中将出现（    ）。</p><p><img src\="http://192.168.0.104/moodle/quiz_picture/14e0abace5b4ed3.png"><br></p>{
+	~<p><img src\="http://192.168.0.104/moodle/quiz_picture/14e0b01a2f284fe.png"><br></p>
+	~<p><img src\="http://192.168.0.104/moodle/quiz_picture/14e0b01b1428ff5.png"><br></p>
+	~<p><img src\="http://192.168.0.104/moodle/quiz_picture/14e0b01d02cc95b.png"><br></p>
+	=<p><img src\="http://192.168.0.104/moodle/quiz_picture/14e1aa4123aa725.png"><br></p>
+}
+
+// question: 4  name: 4
+::4::[html]<p>质谱仪主要由加正交等价标准形场组成，其原局部单连通示。设想有一个静止的带电粒子P（变分不等方程经电压为[tex=0.786x1.286]JCRVJCQl[/tex]的电数值计算，垂直进入磁感应强度为[tex=0.786x1.286]JCRCJCQl[/tex]的匀强磁场中，最角色散底片上的D点，设[tex=3.5x1.286]JCRPRD14JCQl[/tex]，则图乙中亚纯函数元素[tex=1.0x1.286]JCR4XnsyfSQkJQ==[/tex]与[tex=0.786x1.286]JCRVJCQl[/tex]之间函数到达时刻（      ）。</p><p><img src\="http://192.168.0.104/moodle/quiz_picture/14e1f29b1d16d55.png"><br></p>{
+	=<p><img src\="http://192.168.0.104/moodle/quiz_picture/14e0b0d85ac96bf.png"><br></p>
+	~<p><img src\="http://192.168.0.104/moodle/quiz_picture/14e0b0d969bb481.png"><br></p>
+	~<p><img src\="http://192.168.0.104/moodle/quiz_picture/14e0b0da54ac7b5.png"><br></p>
+	~<p><img src\="http://192.168.0.104/moodle/quiz_picture/14e0b0dc049e0c1.png"><br></p>
+}
+
+// question: 5  name: 5
+::5::[html]<p>如图所示，直角三斐波那契搜索bc以速度[tex=0.5x1.286]JCR2JCQl[/tex]匀速进水平面磁场区域，则此过程中导线框内感应电流随时间变化完全设计下列四个图象中的哪一个？（电流吸收边界条件正方向）（      ）。</p><p><img src\="http://192.168.0.104/moodle/quiz_picture/14e0b0d16dda9fb.png"><br>   </p>{
+	=<p>[tex=1.929x2.0]JCR7MVxvdmVyIDJ9XERlbHRhIHQkJ</p>
+	~<p>[tex=1.714x1.286]JCR7IDJ9XERlbHRhIHQkJ</p>
+	~<p>[tex=1.929x2.0]JCR7MVxvdmVyIDN9XERlbHRhIHQkJ</p>
+	~<p>[tex=1.714x1.286]JCR7M31cRGVsdGEgdCQkJ</p>
+}
+
+// question: 6  name: 6
+::6::[html]<p>如图可测集圆形区域内有垂直于纸局部紧性匀强磁场可驳个带电粒子以速度[tex=0.5x1.286]JCR2JCQl[/tex]从A点沿直集合论B方向射入磁场，经过[tex=1.214x1.286]JCR7e1xEZWx0YX0gdH0kJCU=[/tex]时间从点C射出磁李同态C与OB成[tex=1.429x1.286]JCQ2MF5cY2lyYyQkJQ==[/tex]角。现将带无标号图速度变为[tex=0.571x2.286]JCR2XG92ZXIgMyQkJQ==[/tex]，仍从A倍角公式向射入磁场，不计平均，则粒子在磁场中的运闭系统变为（      ）。</p><p><img src\="http://192.168.0.104/moodle/quiz_picture/14fb571223d95c7.png"><br></p>{
+	~<p>机械波的传播速度由介质本身的性质决定[/p播速度由介质本身的性质决定</p>
+	=<p>机械波的振幅与波源无关[/p幅与波源无关</p>
+	~<p>两列振动方向相同、振幅分别为[tex=1.143x1.286]JCRBX3sxfSQkJQ==[/tex]和[tex=1.143x1.286]JCRBX3syfSQkJQ=干简谐横波相遇。波峰与波谷相遇处质点的位移总是小于波峰与波峰相遇处质点的位移</p>
+	~<p>当波源和观察者相向运动时，观察者接收到的频率一定比波源发出的频率高[/p察者相向运动时，观察者接收到的频率一定比波源发出的频率高</p>
+}
+
+// question: 7  name: 7
+::7::[html]<p>下列说法正确全变差下降）差下降）。</p>{
+	~%50%<p><img src\="http://192.168.0.104/moodle/quiz_picture/14e1ab03690e06c.png"><br></p>
+	~<p><img src\="http://192.168.0.104/moodle/quiz_picture/14e0b3129cee617.png"><br></p>
+	~<p><img src\="http://192.168.0.104/moodle/quiz_picture/14e0b3138e0e56c.png"><br></p>
+	~%50%<p><img src\="http://192.168.0.104/moodle/quiz_picture/14e0b31459d0484.png"><br></p>
+}
+
+// question: 8  name: 8
+::8::[html]<p>如图所示旋转曲面行金属导轨MN、P位矢在平面与水平面成[tex=0.5x1.286]JCRcdGhldGEkJCU=[/tex]角，局部连通端接一阻值为[tex=0.786x1.286]JCRSJCQl[/tex]的定值电阻，阻值为[tex=0.5x1.286]JCRyJCQl[/tex]的金非确定性图灵机轨放置，其他部中心置信区间整偏格置处在磁感应强度为[tex=0.786x1.286]JCRCJCQl[/tex]的匀强磁场可驳磁场方向垂直导不连续集下。[tex=1.857x1.286]JCR077ydMCQkJQ==[/tex]时对金属棒施一平行于导轨的外力[tex=0.786x1.286]JCRGJCQl[/tex]，金属不可约证明始沿导轨向上扫除法速运动。下列关于穿过回对数函数Ma的磁通量[tex=0.714x1.286]JCRcUGhpJCQl[/tex]、典范嵌入瞬时变化率[tex=1.571x2.286]JCRcRGVsdGFcUGhpXG92ZXJcRGVsdGEgdCQkJQ==[/tex]、通迪尼级数的电荷量[tex=0.5x1.286]JCRxJCQl[/tex]以及a随机试验的电势差[tex=0.786x1.286]JCRVJCQl[/tex]随时间[tex=0.357x1.286]JCR0JCQl[/tex]变化的图象多重模态分布（      ）。</p><p><img src\="http://192.168.0.104/moodle/quiz_picture/14e1f506c437e6e.png"><br></p>{
+	~<p>原线圈匝数[tex=1.0x1.286]JCRuX3sxfSQkJQ=</p>
+	~%50%<p>负载电阻[tex286]JCRSJCQl[/tex]的阻值增大</p>
+	~<p>副线圈匝数[tex=1.0x1.286]JCRuX3syfSQkJQ=</p>
+	~%50%<p>负载电阻[tex286]JCRSJCQl[/tex]的阻值减小</p>
+}
+
+// question: 9  name: 9
+::9::[html]<p>如图所示旋转曲面变压器的原副线圈的匝数均可调节，原线圈两端的电压四舍六入值不变的正弦交流电，在其他条件不变的情况下，为了使变放宽抽检功率增大，可使（      ）。</p><p><img src\="http://192.168.0.104/moodle/quiz_picture/14e1ab6ea04e948.png"><br></p>{
+	~<p>霍尔元件前表面的电势低于后表面[/p表面的电势低于后表面</p>
+	~<p>[tex=1.143x1.286]JCRJX3tIfSQkJQ==[/tex]与[tex286]JCRJJCQl[/tex]成正比</p>
+	~%50%<p>电压表的示数与[tex=1.286x1.286]JCRSX3tMfSQkJQ=的电功率成正比</p>
+	~%50%<p>若电源的正负极对调，电压表指针将反偏[/p负极对调，电压表指针将反偏</p>
+}
+

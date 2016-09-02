@@ -1,0 +1,22 @@
+// question: 0  name: Switch category to $course$/此处填写题库名称
+$CATEGORY: $course$/此处填写题库名称
+
+
+// question: 107  name: tex2
+::tex2::[html]<p>公式全改$$qBv=m{v^{2}\\over r}$$</p>{
+	=<p>$$qBv\=m\{v^\{2\}\\\\over r\}$$<br></p>
+	~<p>$$qBv\=m\{v^\{2\}\\\\over r\}$$<br></p>
+	~<p>$$\{ 2\}\\\\Delta t$$<br></p>
+	~<p>$$\{ 2\}\\\\Delta t$$<br></p>
+}
+
+
+// question: 106  name: tex题目
+::tex题目::[html]<p>公式不修改b'$$\{ 2\}\\\\Delta t$$%'</p>{
+	~<p>不改#b'$$\{ 2\}\\\\Delta t$$%'<br></p>
+	~<p>改一点儿$$\{ 2\}\\\\Delta t$$<br></p>
+	=<p>全改$${ 2}\\Delta t$$<br></p>
+	~<p>全改长$$qBv=m{v^{2}\\over r}$$<br></p>
+}
+
+

@@ -1,0 +1,13 @@
+// question: 0  name: Switch category to $course$/默认 首页
+$CATEGORY: $course$/默认 首页
+
+
+// question: 124  name: meitu
+::meitu::[html]<p>meitu</p>{
+	=<p><img src\="@@PLUGINFILE@@/getqrcode.jpg" alt\="" width\="430" height\="430" role\="presentation" style\="vertical-align\:text-bottom; margin\: 0 .5em;" class\="img-responsive"><br></p>
+	~<p>12</p>
+	~<p>12</p>
+	~<p>12</p>
+}
+
+

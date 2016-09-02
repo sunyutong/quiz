@@ -1,0 +1,32 @@
+// question: 0  name: Switch category to $course$/此处填写题库名称
+$CATEGORY: $course$/此处填写题库名称
+
+// question: 1  name: 三选题
+::三选题::[html]<p>三选题题干</p><p><img src\="http://192.168.0.104/moodle/quiz_picture/123.png" alt\="" width\="430" height\="430" role\="presentation" style\="vertical-align\:text-bottom; margin\: 0 .5em;" class\="img-responsive"><br></p><p><img src\="http://192.168.0.104/moodle/quiz_picture/123.png" alt\="" width\="430" height\="430" role\="presentation" style\="vertical-align\:text-bottom; margin\: 0 .5em;" class\="img-responsive"><br></p>{
+	~%33.33333%<p>对1</p>
+	~%33.33333%<p>对2</p>
+	~%33.33333%<p>对3</p>
+	~<p>错</p>
+}
+
+// question: 2  name: 单选题
+::单选题::[html]<p>单选题题干</p><p><img src\="http://192.168.0.104/moodle/quiz_picture/123.png" alt\="" width\="430" height\="430" role\="presentation" style\="vertical-align\:text-bottom; margin\: 0 .5em;" class\="img-responsive"><br></p>{
+	=<p>对<img src\="http://192.168.0.104/moodle/quiz_picture/123.png" alt\="" width\="200" height\="200" role\="presentation" style\="vertical-align\:text-bottom; margin\: 0 .5em;" class\="img-responsive"></p>
+	~<p>错</p>
+	~<p>错</p>
+	~<p>错</p>
+}
+
+// question: 3  name: 双选题
+::双选题::[html]<p>双选题题干</p><p><img src\="http://192.168.0.104/moodle/quiz_picture/123.png" alt\="" width\="430" height\="430" role\="presentation" style\="vertical-align\:text-bottom; margin\: 0 .5em;" class\="img-responsive"><br></p>{
+	~%50%<p>对1</p>
+	~%50%<p>对2</p>
+	~<p>错</p>
+	~<p>错</p>
+}
+
+// question: 4  name: 简答题题目
+::简答题题目::[html]<p>题干</p><p><img src\="http://192.168.0.104/moodle/quiz_picture/123.png" alt\="" width\="430" height\="430" role\="presentation" style\="vertical-align\:text-bottom; margin\: 0 .5em;" class\="img-responsive"><br></p>{}
+
+
+
